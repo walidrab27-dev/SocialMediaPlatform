@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SocialMediaPlatform.ConsoleApplication/SocialMediaPlatform.ConsoleApplication.csproj" />
+  <Project Path="SocialMediaPlatform.Data/SocialMediaPlatform.Data.csproj" />
+</Solution>
